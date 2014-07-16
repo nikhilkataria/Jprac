@@ -1,4 +1,4 @@
-package practice;
+package chapter1_strings;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;

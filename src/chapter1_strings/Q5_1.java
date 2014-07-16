@@ -1,4 +1,4 @@
-package practice;
+package chapter1_strings;
 /*
  * Implement a method to perform basic string compression using the counts of
 repeated characters. For example, the string aabcccccaaa would become
