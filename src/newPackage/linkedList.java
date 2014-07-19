@@ -151,7 +151,7 @@ public class linkedList<E> {
 			Integer v = ll.remove(4);
 			System.out.println("removed: " + v);
 			ll.print();
-			assert(ll.size() == 9);
+			//assert(ll.size() == 9);
 		}
 
 
