@@ -137,6 +137,8 @@ public class linkedList<E> {
 				System.out.println(n.elem.toString());
 			}
 		}
+		
+		
 		public static void main(String[] args) {
 			linkedList<Integer> ll = new linkedList<Integer>();
 
